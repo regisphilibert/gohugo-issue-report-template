@@ -1,2 +1,15 @@
-Sample repo for https://github.com/gohugoio/hugo/issues/6790
+This is a shameless ripof of @zwbetz-gh's [starter-hugo-debug-site](https://github.com/zwbetz-gh/starter-hugo-debug-site), only a little bit more adapteded to one's daily usage.
+
+1. Download repo
+2. Adjust to reprouced issue
+3. Remove hereby walkthrough and leave only information below
+4. init git/first commit/push etc...
+
+---
+
+## Sample repo for {HUGO_ISSUE_URL}
+
+{STEP_TO_REPRODUCE} or {ISSUE_DESC}
+
+
 
