@@ -1,10 +1,5 @@
 {{ $output := slice }}
 {{ range .Pages }}
-  {{ $output  = $output | append (dict "title" .Title "URL" .RelPermalink "test" (template "testing_template")) }}
+  {{ $output  = $output | append (dict "title" .Title "URL" .RelPermalink) }}
 {{ end }}
 {{ $output | jsonify }}
-
-
-{{ define "testing_template" }}
-  Bonjour
-{{ end }}
