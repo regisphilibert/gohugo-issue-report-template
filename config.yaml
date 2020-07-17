@@ -1,4 +1,4 @@
-baseURL: 'https://starter-hugo-debug-site.netlify.com/'
+baseURL: 'https://rp.example.com/'
 languageCode: en-us
 title: Debug
 disableKinds:
